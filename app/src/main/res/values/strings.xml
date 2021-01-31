@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sample Transition Blueprint</string>
+    <string name="search_idle_screen_text">Let\'s find some routes</string>
+    <string name="search_input_hint">search for routes</string>
 </resources>
