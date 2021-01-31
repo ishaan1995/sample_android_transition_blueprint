@@ -3,7 +3,6 @@ package com.ishaan.sampletransitionblueprint
 import android.animation.AnimatorSet
 import android.animation.ObjectAnimator
 import android.animation.ValueAnimator
-import android.graphics.Path
 import android.view.View
 import android.widget.EditText
 import android.widget.FrameLayout
